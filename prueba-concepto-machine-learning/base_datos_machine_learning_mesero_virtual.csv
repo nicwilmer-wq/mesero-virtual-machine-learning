@@ -1,0 +1,401 @@
+﻿Producto,Categoria,Dia_semana,Hora_pedido,Cantidad,Pedidos_pendientes,Nivel_ocupacion,Personal_cocina,Tiempo_preparacion_min
+Hamburguesa clásica,Comidas rápidas,Domingo,13:15,3,10,Alta,2,34
+Hamburguesa especial,Comidas rápidas,Sábado,17:15,2,5,Media,3,27
+Hamburguesa especial,Comidas rápidas,Jueves,13:00,3,7,Media,2,37
+Jugo natural,Bebidas,Martes,21:15,1,3,Baja,2,7
+Salchipapa,Comidas rápidas,Martes,13:00,2,10,Alta,2,29
+Bandeja típica,Comida típica,Martes,18:15,2,4,Media,3,37
+Ensalada,Comida saludable,Jueves,19:30,2,6,Media,2,23
+Perro caliente,Comidas rápidas,Jueves,19:00,1,5,Media,3,13
+Salchipapa,Comidas rápidas,Martes,18:15,1,2,Baja,1,17
+Arepa con queso,Comida típica,Domingo,11:45,2,6,Media,3,15
+Jugo natural,Bebidas,Martes,11:15,3,8,Media,4,14
+Bandeja típica,Comida típica,Martes,12:45,2,11,Alta,2,42
+Hamburguesa especial,Comidas rápidas,Viernes,13:30,1,7,Media,2,25
+Perro caliente,Comidas rápidas,Viernes,20:15,1,9,Alta,2,15
+Salchipapa,Comidas rápidas,Miércoles,13:15,1,7,Media,3,21
+Bandeja típica,Comida típica,Viernes,19:15,1,6,Media,2,29
+Pizza mediana,Comida italiana,Sábado,12:00,3,9,Alta,1,56
+Jugo natural,Bebidas,Jueves,20:00,2,10,Alta,3,14
+Hamburguesa clásica,Comidas rápidas,Lunes,12:00,1,8,Media,2,22
+Pizza personal,Comida italiana,Domingo,14:15,1,3,Baja,2,26
+Jugo natural,Bebidas,Lunes,14:45,2,5,Media,2,11
+Hamburguesa clásica,Comidas rápidas,Martes,12:00,1,7,Media,3,19
+Ensalada,Comida saludable,Sábado,11:30,1,8,Media,1,18
+Perro caliente,Comidas rápidas,Jueves,12:15,2,11,Alta,2,18
+Jugo natural,Bebidas,Martes,19:45,1,5,Media,3,8
+Jugo natural,Bebidas,Viernes,20:30,1,5,Media,1,12
+Hamburguesa especial,Comidas rápidas,Jueves,09:15,2,6,Media,2,33
+Perro caliente,Comidas rápidas,Miércoles,16:45,1,3,Baja,3,11
+Pizza mediana,Comida italiana,Sábado,10:45,3,12,Alta,2,57
+Perro caliente,Comidas rápidas,Sábado,11:15,1,6,Media,2,13
+Perro caliente,Comidas rápidas,Viernes,20:30,3,11,Alta,3,20
+Salchipapa,Comidas rápidas,Domingo,19:45,1,8,Media,4,23
+Jugo natural,Bebidas,Viernes,19:15,2,9,Alta,2,17
+Hamburguesa clásica,Comidas rápidas,Sábado,14:30,2,8,Media,1,26
+Bandeja típica,Comida típica,Sábado,19:00,2,11,Alta,2,45
+Salchipapa,Comidas rápidas,Martes,13:00,2,11,Alta,4,27
+Hamburguesa especial,Comidas rápidas,Lunes,16:00,2,1,Baja,3,21
+Jugo natural,Bebidas,Sábado,14:00,1,9,Alta,4,10
+Hamburguesa especial,Comidas rápidas,Sábado,10:30,3,4,Media,3,34
+Hamburguesa clásica,Comidas rápidas,Miércoles,17:45,1,0,Baja,1,12
+Jugo natural,Bebidas,Viernes,12:15,3,9,Alta,2,19
+Salchipapa,Comidas rápidas,Martes,19:15,1,9,Alta,3,22
+Perro caliente,Comidas rápidas,Sábado,18:15,1,6,Media,3,15
+Pizza mediana,Comida italiana,Sábado,20:30,1,12,Alta,1,41
+Jugo natural,Bebidas,Martes,12:30,1,9,Alta,1,14
+Pizza mediana,Comida italiana,Martes,12:00,2,11,Alta,2,47
+Ensalada,Comida saludable,Domingo,20:00,3,11,Alta,1,33
+Ensalada,Comida saludable,Jueves,12:30,1,6,Media,3,13
+Pizza mediana,Comida italiana,Viernes,11:00,2,7,Media,2,42
+Pizza personal,Comida italiana,Martes,12:45,2,10,Alta,2,34
+Pizza personal,Comida italiana,Lunes,18:00,1,4,Media,2,25
+Hamburguesa especial,Comidas rápidas,Viernes,16:30,1,5,Media,3,20
+Bandeja típica,Comida típica,Miércoles,15:45,1,10,Alta,1,31
+Jugo natural,Bebidas,Viernes,17:15,1,2,Baja,4,7
+Pizza mediana,Comida italiana,Domingo,16:30,1,14,Alta,3,34
+Arepa con queso,Comida típica,Martes,17:15,3,5,Media,1,21
+Jugo natural,Bebidas,Viernes,21:45,1,8,Media,2,12
+Pizza personal,Comida italiana,Sábado,18:45,2,7,Media,3,32
+Pizza mediana,Comida italiana,Lunes,14:15,2,4,Media,4,43
+Bandeja típica,Comida típica,Domingo,12:30,2,9,Alta,2,39
+Pizza mediana,Comida italiana,Sábado,21:30,1,8,Media,4,38
+Pizza personal,Comida italiana,Jueves,13:00,1,4,Media,2,26
+Ensalada,Comida saludable,Sábado,13:45,3,12,Alta,3,30
+Arepa con queso,Comida típica,Sábado,12:45,1,10,Alta,3,21
+Ensalada,Comida saludable,Martes,21:30,2,5,Media,3,17
+Bandeja típica,Comida típica,Martes,13:00,1,5,Media,2,28
+Jugo natural,Bebidas,Viernes,14:45,1,1,Baja,2,9
+Ensalada,Comida saludable,Domingo,12:45,1,7,Media,1,19
+Hamburguesa especial,Comidas rápidas,Lunes,14:15,1,6,Media,2,19
+Pizza personal,Comida italiana,Domingo,13:00,3,8,Media,1,44
+Hamburguesa clásica,Comidas rápidas,Viernes,08:45,1,1,Baja,3,15
+Hamburguesa clásica,Comidas rápidas,Viernes,16:30,3,0,Baja,4,26
+Pizza mediana,Comida italiana,Martes,19:45,3,10,Alta,3,55
+Perro caliente,Comidas rápidas,Jueves,13:30,1,4,Media,2,15
+Bandeja típica,Comida típica,Martes,18:45,2,5,Media,3,36
+Bandeja típica,Comida típica,Lunes,21:15,1,3,Baja,4,26
+Pizza mediana,Comida italiana,Sábado,17:00,1,5,Media,3,32
+Hamburguesa clásica,Comidas rápidas,Miércoles,12:45,3,12,Alta,2,31
+Hamburguesa clásica,Comidas rápidas,Jueves,15:15,1,4,Media,4,14
+Arepa con queso,Comida típica,Lunes,19:45,3,11,Alta,3,22
+Bandeja típica,Comida típica,Martes,19:45,2,6,Media,4,38
+Ensalada,Comida saludable,Jueves,20:30,1,10,Alta,2,20
+Bandeja típica,Comida típica,Miércoles,11:15,2,4,Media,4,33
+Pizza mediana,Comida italiana,Martes,11:15,2,2,Baja,2,41
+Perro caliente,Comidas rápidas,Sábado,14:45,1,10,Alta,2,19
+Perro caliente,Comidas rápidas,Martes,10:45,3,4,Media,4,16
+Salchipapa,Comidas rápidas,Domingo,12:45,1,10,Alta,4,21
+Pizza personal,Comida italiana,Sábado,19:30,1,12,Alta,2,27
+Perro caliente,Comidas rápidas,Martes,20:00,3,9,Alta,2,24
+Hamburguesa clásica,Comidas rápidas,Miércoles,20:00,1,6,Media,1,21
+Hamburguesa clásica,Comidas rápidas,Martes,17:00,1,7,Media,4,14
+Salchipapa,Comidas rápidas,Miércoles,13:00,2,10,Alta,4,27
+Ensalada,Comida saludable,Viernes,14:45,1,6,Media,3,11
+Hamburguesa clásica,Comidas rápidas,Martes,20:30,1,6,Media,2,20
+Bandeja típica,Comida típica,Martes,21:15,2,8,Media,4,39
+Hamburguesa especial,Comidas rápidas,Viernes,13:30,1,5,Media,3,21
+Bandeja típica,Comida típica,Lunes,08:45,1,5,Media,2,27
+Perro caliente,Comidas rápidas,Miércoles,18:45,3,7,Media,4,20
+Pizza mediana,Comida italiana,Viernes,08:30,1,9,Alta,2,32
+Jugo natural,Bebidas,Sábado,19:45,3,12,Alta,2,21
+Pizza personal,Comida italiana,Jueves,12:30,2,5,Media,2,34
+Hamburguesa especial,Comidas rápidas,Viernes,11:30,2,4,Media,2,32
+Ensalada,Comida saludable,Domingo,21:30,1,7,Media,3,18
+Hamburguesa especial,Comidas rápidas,Domingo,15:00,2,10,Alta,2,32
+Perro caliente,Comidas rápidas,Miércoles,18:45,1,9,Alta,4,16
+Pizza personal,Comida italiana,Domingo,15:15,1,3,Baja,2,24
+Hamburguesa clásica,Comidas rápidas,Domingo,17:30,2,8,Media,2,27
+Salchipapa,Comidas rápidas,Viernes,18:00,2,4,Media,3,24
+Bandeja típica,Comida típica,Martes,11:00,1,6,Media,4,30
+Jugo natural,Bebidas,Jueves,12:30,1,10,Alta,1,12
+Pizza personal,Comida italiana,Jueves,12:15,1,9,Alta,3,25
+Ensalada,Comida saludable,Viernes,08:00,1,7,Media,2,19
+Pizza mediana,Comida italiana,Lunes,18:00,1,3,Baja,2,30
+Hamburguesa especial,Comidas rápidas,Martes,13:00,1,9,Alta,1,23
+Pizza mediana,Comida italiana,Domingo,11:00,3,7,Media,2,53
+Hamburguesa clásica,Comidas rápidas,Sábado,19:45,1,12,Alta,2,25
+Jugo natural,Bebidas,Viernes,19:00,2,10,Alta,2,18
+Pizza personal,Comida italiana,Domingo,17:15,2,5,Media,2,35
+Jugo natural,Bebidas,Lunes,12:45,2,9,Alta,4,13
+Hamburguesa especial,Comidas rápidas,Sábado,16:45,1,5,Media,3,17
+Perro caliente,Comidas rápidas,Sábado,14:15,1,8,Media,3,10
+Perro caliente,Comidas rápidas,Sábado,21:00,3,7,Media,3,23
+Perro caliente,Comidas rápidas,Jueves,21:30,2,4,Media,3,16
+Bandeja típica,Comida típica,Sábado,19:00,1,11,Alta,1,38
+Jugo natural,Bebidas,Jueves,12:15,1,5,Media,4,10
+Perro caliente,Comidas rápidas,Sábado,21:00,1,7,Media,3,13
+Pizza mediana,Comida italiana,Viernes,09:00,2,5,Media,1,46
+Jugo natural,Bebidas,Lunes,15:00,3,3,Baja,4,12
+Bandeja típica,Comida típica,Domingo,12:00,3,12,Alta,3,52
+Pizza personal,Comida italiana,Domingo,20:00,3,11,Alta,1,47
+Bandeja típica,Comida típica,Jueves,20:45,2,4,Media,2,42
+Ensalada,Comida saludable,Viernes,14:30,3,3,Baja,1,21
+Hamburguesa especial,Comidas rápidas,Viernes,20:15,2,10,Alta,2,33
+Arepa con queso,Comida típica,Miércoles,13:15,2,8,Media,2,22
+Jugo natural,Bebidas,Miércoles,20:45,1,7,Media,4,8
+Salchipapa,Comidas rápidas,Miércoles,13:45,1,6,Media,4,23
+Pizza mediana,Comida italiana,Lunes,14:30,1,11,Alta,2,36
+Pizza personal,Comida italiana,Lunes,18:15,1,3,Baja,3,18
+Perro caliente,Comidas rápidas,Lunes,12:30,1,7,Media,4,15
+Hamburguesa especial,Comidas rápidas,Martes,11:45,1,3,Baja,2,18
+Ensalada,Comida saludable,Lunes,09:15,1,7,Media,2,16
+Bandeja típica,Comida típica,Martes,18:00,1,3,Baja,2,24
+Salchipapa,Comidas rápidas,Viernes,20:15,1,12,Alta,2,25
+Pizza mediana,Comida italiana,Jueves,16:45,2,8,Media,2,42
+Ensalada,Comida saludable,Viernes,20:15,1,6,Media,1,18
+Bandeja típica,Comida típica,Miércoles,19:00,2,7,Media,2,38
+Jugo natural,Bebidas,Domingo,12:45,1,12,Alta,3,12
+Arepa con queso,Comida típica,Lunes,16:15,3,2,Baja,3,16
+Hamburguesa especial,Comidas rápidas,Martes,18:00,1,4,Media,3,18
+Hamburguesa especial,Comidas rápidas,Martes,13:30,1,8,Media,2,24
+Pizza mediana,Comida italiana,Domingo,12:00,2,10,Alta,4,48
+Jugo natural,Bebidas,Sábado,19:30,1,6,Media,3,14
+Hamburguesa especial,Comidas rápidas,Miércoles,20:30,3,7,Media,3,35
+Arepa con queso,Comida típica,Miércoles,19:00,3,11,Alta,2,26
+Arepa con queso,Comida típica,Domingo,16:45,1,10,Alta,3,17
+Hamburguesa especial,Comidas rápidas,Miércoles,13:15,2,8,Media,3,29
+Arepa con queso,Comida típica,Martes,20:45,1,8,Media,2,15
+Pizza personal,Comida italiana,Jueves,14:15,1,3,Baja,4,20
+Pizza personal,Comida italiana,Martes,12:30,3,9,Alta,1,41
+Pizza mediana,Comida italiana,Martes,17:15,2,7,Media,3,41
+Perro caliente,Comidas rápidas,Lunes,20:30,3,6,Media,2,20
+Hamburguesa clásica,Comidas rápidas,Jueves,10:00,1,10,Alta,2,17
+Bandeja típica,Comida típica,Viernes,11:45,1,6,Media,2,26
+Arepa con queso,Comida típica,Miércoles,12:45,2,8,Media,3,18
+Salchipapa,Comidas rápidas,Jueves,10:45,1,3,Baja,3,15
+Hamburguesa clásica,Comidas rápidas,Jueves,14:30,1,6,Media,2,12
+Salchipapa,Comidas rápidas,Viernes,14:30,1,4,Media,1,20
+Pizza personal,Comida italiana,Sábado,18:30,1,7,Media,3,25
+Perro caliente,Comidas rápidas,Jueves,12:00,3,9,Alta,2,22
+Bandeja típica,Comida típica,Jueves,21:00,2,7,Media,4,35
+Jugo natural,Bebidas,Miércoles,19:45,1,10,Alta,2,13
+Pizza mediana,Comida italiana,Sábado,19:45,1,8,Media,2,36
+Perro caliente,Comidas rápidas,Domingo,12:30,1,7,Media,3,17
+Salchipapa,Comidas rápidas,Viernes,14:30,1,3,Baja,2,19
+Pizza personal,Comida italiana,Lunes,11:45,1,8,Media,1,29
+Pizza mediana,Comida italiana,Miércoles,08:15,1,7,Media,2,32
+Ensalada,Comida saludable,Sábado,14:00,1,7,Media,4,14
+Salchipapa,Comidas rápidas,Miércoles,19:30,3,10,Alta,3,32
+Arepa con queso,Comida típica,Lunes,10:30,2,7,Media,2,17
+Salchipapa,Comidas rápidas,Martes,18:00,1,9,Alta,1,21
+Ensalada,Comida saludable,Sábado,10:15,1,11,Alta,4,17
+Perro caliente,Comidas rápidas,Viernes,11:00,2,2,Baja,2,16
+Salchipapa,Comidas rápidas,Miércoles,12:15,1,7,Media,2,23
+Pizza personal,Comida italiana,Lunes,19:00,1,6,Media,2,25
+Bandeja típica,Comida típica,Viernes,19:45,3,6,Media,3,46
+Perro caliente,Comidas rápidas,Domingo,21:30,1,7,Media,2,19
+Salchipapa,Comidas rápidas,Miércoles,14:00,3,2,Baja,4,27
+Bandeja típica,Comida típica,Domingo,10:30,1,9,Alta,4,30
+Pizza personal,Comida italiana,Viernes,21:00,1,2,Baja,2,22
+Pizza mediana,Comida italiana,Viernes,18:15,1,7,Media,4,30
+Bandeja típica,Comida típica,Lunes,14:30,1,7,Media,4,31
+Salchipapa,Comidas rápidas,Martes,14:45,2,2,Baja,4,21
+Perro caliente,Comidas rápidas,Lunes,10:45,1,2,Baja,2,11
+Pizza mediana,Comida italiana,Domingo,13:15,1,6,Media,2,37
+Salchipapa,Comidas rápidas,Jueves,20:00,2,12,Alta,4,25
+Jugo natural,Bebidas,Jueves,19:00,1,9,Alta,2,14
+Ensalada,Comida saludable,Lunes,14:15,1,6,Media,2,13
+Pizza mediana,Comida italiana,Viernes,14:00,1,9,Alta,3,34
+Perro caliente,Comidas rápidas,Lunes,16:15,1,4,Media,3,13
+Hamburguesa clásica,Comidas rápidas,Sábado,14:15,1,7,Media,3,20
+Pizza mediana,Comida italiana,Miércoles,11:30,1,6,Media,4,29
+Pizza personal,Comida italiana,Lunes,13:30,1,8,Media,1,28
+Hamburguesa especial,Comidas rápidas,Sábado,17:15,1,8,Media,2,22
+Pizza mediana,Comida italiana,Jueves,12:30,1,7,Media,3,33
+Hamburguesa clásica,Comidas rápidas,Sábado,16:15,3,7,Media,4,30
+Hamburguesa clásica,Comidas rápidas,Miércoles,16:00,1,9,Alta,3,18
+Hamburguesa especial,Comidas rápidas,Lunes,17:15,1,4,Media,4,19
+Hamburguesa clásica,Comidas rápidas,Lunes,12:00,3,7,Media,3,26
+Ensalada,Comida saludable,Lunes,18:45,3,6,Media,3,24
+Arepa con queso,Comida típica,Viernes,10:15,1,3,Baja,3,8
+Arepa con queso,Comida típica,Viernes,09:45,1,4,Media,2,12
+Pizza mediana,Comida italiana,Sábado,16:00,1,8,Media,1,37
+Arepa con queso,Comida típica,Sábado,18:45,1,6,Media,1,17
+Salchipapa,Comidas rápidas,Domingo,12:15,2,12,Alta,2,32
+Hamburguesa especial,Comidas rápidas,Lunes,18:45,1,5,Media,2,17
+Hamburguesa clásica,Comidas rápidas,Sábado,19:00,2,9,Alta,1,28
+Perro caliente,Comidas rápidas,Viernes,21:15,1,5,Media,3,10
+Jugo natural,Bebidas,Viernes,11:30,1,8,Media,2,13
+Salchipapa,Comidas rápidas,Jueves,21:15,1,3,Baja,3,16
+Ensalada,Comida saludable,Domingo,11:00,1,6,Media,3,16
+Perro caliente,Comidas rápidas,Jueves,19:45,2,12,Alta,2,22
+Pizza personal,Comida italiana,Miércoles,16:00,1,10,Alta,2,25
+Jugo natural,Bebidas,Jueves,18:15,1,7,Media,4,5
+Pizza personal,Comida italiana,Miércoles,13:15,1,7,Media,2,24
+Perro caliente,Comidas rápidas,Viernes,19:45,1,9,Alta,4,16
+Arepa con queso,Comida típica,Miércoles,15:30,1,6,Media,1,16
+Arepa con queso,Comida típica,Lunes,15:45,2,3,Baja,2,14
+Pizza personal,Comida italiana,Sábado,12:45,2,9,Alta,4,35
+Jugo natural,Bebidas,Jueves,20:45,2,7,Media,4,11
+Hamburguesa especial,Comidas rápidas,Lunes,13:15,1,8,Media,2,26
+Pizza mediana,Comida italiana,Jueves,12:45,1,9,Alta,2,38
+Ensalada,Comida saludable,Sábado,17:30,2,6,Media,1,23
+Hamburguesa clásica,Comidas rápidas,Viernes,08:30,2,8,Media,3,25
+Bandeja típica,Comida típica,Lunes,08:30,1,6,Media,2,26
+Bandeja típica,Comida típica,Jueves,10:15,1,6,Media,2,32
+Ensalada,Comida saludable,Domingo,18:00,1,9,Alta,3,19
+Pizza personal,Comida italiana,Jueves,20:15,1,9,Alta,1,32
+Ensalada,Comida saludable,Sábado,17:30,2,7,Media,3,21
+Perro caliente,Comidas rápidas,Martes,12:45,3,15,Alta,2,29
+Arepa con queso,Comida típica,Martes,13:30,1,8,Media,3,15
+Perro caliente,Comidas rápidas,Martes,14:15,2,7,Media,3,15
+Bandeja típica,Comida típica,Lunes,12:30,2,10,Alta,3,39
+Jugo natural,Bebidas,Lunes,19:45,2,10,Alta,3,19
+Hamburguesa clásica,Comidas rápidas,Miércoles,12:45,1,7,Media,3,18
+Jugo natural,Bebidas,Sábado,13:30,1,9,Alta,4,14
+Bandeja típica,Comida típica,Viernes,15:00,1,5,Media,1,30
+Salchipapa,Comidas rápidas,Jueves,19:45,1,7,Media,2,18
+Salchipapa,Comidas rápidas,Jueves,10:30,3,8,Media,1,34
+Salchipapa,Comidas rápidas,Jueves,18:00,3,4,Media,3,26
+Arepa con queso,Comida típica,Viernes,14:00,1,2,Baja,3,13
+Pizza personal,Comida italiana,Jueves,18:00,2,8,Media,3,31
+Salchipapa,Comidas rápidas,Jueves,19:15,3,6,Media,2,34
+Salchipapa,Comidas rápidas,Sábado,11:45,1,5,Media,1,19
+Salchipapa,Comidas rápidas,Martes,16:15,1,7,Media,2,18
+Salchipapa,Comidas rápidas,Domingo,12:45,1,12,Alta,3,26
+Salchipapa,Comidas rápidas,Martes,12:45,1,6,Media,2,21
+Perro caliente,Comidas rápidas,Lunes,19:15,1,11,Alta,1,19
+Ensalada,Comida saludable,Martes,13:30,2,7,Media,2,21
+Ensalada,Comida saludable,Viernes,12:00,1,4,Media,2,14
+Pizza personal,Comida italiana,Lunes,13:15,2,4,Media,4,29
+Bandeja típica,Comida típica,Martes,11:45,3,5,Media,3,44
+Hamburguesa especial,Comidas rápidas,Domingo,20:15,1,12,Alta,2,27
+Hamburguesa especial,Comidas rápidas,Miércoles,14:15,1,3,Baja,4,18
+Ensalada,Comida saludable,Lunes,18:30,1,7,Media,4,16
+Bandeja típica,Comida típica,Lunes,13:30,1,4,Media,4,26
+Hamburguesa especial,Comidas rápidas,Domingo,11:30,1,9,Alta,4,22
+Hamburguesa especial,Comidas rápidas,Viernes,11:30,1,6,Media,3,21
+Ensalada,Comida saludable,Miércoles,16:45,1,8,Media,4,10
+Ensalada,Comida saludable,Martes,10:30,2,2,Baja,3,16
+Perro caliente,Comidas rápidas,Viernes,19:45,2,8,Media,4,21
+Arepa con queso,Comida típica,Miércoles,16:15,1,4,Media,1,14
+Perro caliente,Comidas rápidas,Jueves,20:15,2,8,Media,2,19
+Pizza personal,Comida italiana,Lunes,14:00,2,4,Media,2,31
+Pizza personal,Comida italiana,Viernes,12:15,1,6,Media,2,26
+Ensalada,Comida saludable,Sábado,20:30,2,13,Alta,3,26
+Arepa con queso,Comida típica,Sábado,14:15,2,5,Media,2,22
+Hamburguesa especial,Comidas rápidas,Viernes,13:00,1,7,Media,4,24
+Salchipapa,Comidas rápidas,Viernes,19:00,3,8,Media,3,31
+Ensalada,Comida saludable,Jueves,12:45,1,11,Alta,1,21
+Arepa con queso,Comida típica,Viernes,11:45,3,7,Media,4,20
+Arepa con queso,Comida típica,Jueves,18:30,2,5,Media,2,19
+Ensalada,Comida saludable,Jueves,14:00,1,5,Media,4,12
+Arepa con queso,Comida típica,Lunes,18:30,2,4,Media,2,22
+Hamburguesa clásica,Comidas rápidas,Viernes,19:15,2,7,Media,3,21
+Ensalada,Comida saludable,Martes,11:15,1,1,Baja,4,13
+Bandeja típica,Comida típica,Martes,21:45,1,4,Media,1,27
+Perro caliente,Comidas rápidas,Miércoles,18:00,2,5,Media,2,18
+Bandeja típica,Comida típica,Viernes,14:45,1,1,Baja,3,26
+Hamburguesa especial,Comidas rápidas,Viernes,12:15,1,7,Media,3,24
+Salchipapa,Comidas rápidas,Domingo,20:30,2,10,Alta,1,31
+Jugo natural,Bebidas,Jueves,13:00,2,8,Media,2,13
+Ensalada,Comida saludable,Lunes,19:00,2,8,Media,2,21
+Perro caliente,Comidas rápidas,Domingo,14:15,1,5,Media,2,13
+Arepa con queso,Comida típica,Lunes,16:30,3,3,Baja,3,18
+Pizza personal,Comida italiana,Martes,21:30,2,2,Baja,3,26
+Ensalada,Comida saludable,Domingo,16:00,1,4,Media,2,13
+Hamburguesa clásica,Comidas rápidas,Domingo,11:45,2,11,Alta,2,27
+Arepa con queso,Comida típica,Lunes,09:00,1,4,Media,1,16
+Pizza mediana,Comida italiana,Lunes,18:30,2,6,Media,4,40
+Pizza mediana,Comida italiana,Viernes,21:00,2,1,Baja,1,45
+Pizza personal,Comida italiana,Sábado,20:45,3,8,Media,3,44
+Hamburguesa clásica,Comidas rápidas,Martes,12:15,1,11,Alta,4,20
+Arepa con queso,Comida típica,Viernes,12:15,1,10,Alta,1,20
+Pizza mediana,Comida italiana,Martes,19:00,2,6,Media,1,48
+Perro caliente,Comidas rápidas,Sábado,13:30,2,12,Alta,2,21
+Pizza personal,Comida italiana,Viernes,11:15,1,3,Baja,2,22
+Arepa con queso,Comida típica,Martes,20:30,1,12,Alta,2,19
+Pizza personal,Comida italiana,Domingo,21:30,1,5,Media,3,26
+Ensalada,Comida saludable,Sábado,19:15,2,11,Alta,3,24
+Salchipapa,Comidas rápidas,Martes,09:15,1,3,Baja,4,18
+Pizza mediana,Comida italiana,Sábado,17:00,1,5,Media,4,34
+Bandeja típica,Comida típica,Jueves,15:45,3,3,Baja,2,43
+Salchipapa,Comidas rápidas,Miércoles,12:45,1,6,Media,3,20
+Perro caliente,Comidas rápidas,Jueves,19:00,2,4,Media,1,20
+Arepa con queso,Comida típica,Lunes,20:00,3,6,Media,1,26
+Bandeja típica,Comida típica,Miércoles,19:00,2,9,Alta,3,38
+Ensalada,Comida saludable,Martes,20:00,3,12,Alta,2,25
+Jugo natural,Bebidas,Lunes,19:30,2,10,Alta,1,16
+Jugo natural,Bebidas,Jueves,16:30,1,11,Alta,3,9
+Arepa con queso,Comida típica,Miércoles,10:30,1,3,Baja,3,13
+Pizza mediana,Comida italiana,Martes,08:00,1,5,Media,2,31
+Bandeja típica,Comida típica,Domingo,20:15,1,11,Alta,3,30
+Hamburguesa especial,Comidas rápidas,Miércoles,12:00,2,13,Alta,2,34
+Perro caliente,Comidas rápidas,Domingo,19:45,1,10,Alta,3,20
+Hamburguesa clásica,Comidas rápidas,Viernes,19:30,1,11,Alta,3,18
+Perro caliente,Comidas rápidas,Lunes,21:30,3,6,Media,4,19
+Salchipapa,Comidas rápidas,Viernes,12:30,1,10,Alta,2,24
+Perro caliente,Comidas rápidas,Sábado,17:00,1,10,Alta,4,14
+Bandeja típica,Comida típica,Viernes,16:15,1,5,Media,3,25
+Pizza mediana,Comida italiana,Miércoles,18:15,1,4,Media,2,34
+Bandeja típica,Comida típica,Martes,10:30,1,3,Baja,4,26
+Perro caliente,Comidas rápidas,Jueves,12:15,1,6,Media,2,13
+Bandeja típica,Comida típica,Viernes,13:45,2,7,Media,3,37
+Jugo natural,Bebidas,Domingo,14:00,1,7,Media,3,13
+Bandeja típica,Comida típica,Domingo,18:45,1,4,Media,2,30
+Hamburguesa clásica,Comidas rápidas,Martes,16:45,2,2,Baja,3,17
+Ensalada,Comida saludable,Domingo,19:00,2,18,Alta,3,27
+Salchipapa,Comidas rápidas,Lunes,20:15,2,9,Alta,2,29
+Hamburguesa clásica,Comidas rápidas,Lunes,14:00,1,5,Media,2,13
+Hamburguesa especial,Comidas rápidas,Miércoles,14:15,1,5,Media,1,20
+Ensalada,Comida saludable,Jueves,19:45,2,13,Alta,3,19
+Arepa con queso,Comida típica,Martes,19:15,3,8,Media,3,22
+Arepa con queso,Comida típica,Miércoles,08:45,1,6,Media,2,12
+Salchipapa,Comidas rápidas,Viernes,08:00,1,7,Media,2,20
+Jugo natural,Bebidas,Lunes,12:00,2,8,Media,3,12
+Hamburguesa especial,Comidas rápidas,Jueves,20:30,2,9,Alta,1,31
+Pizza mediana,Comida italiana,Martes,18:45,2,7,Media,2,44
+Jugo natural,Bebidas,Jueves,13:15,2,7,Media,2,15
+Ensalada,Comida saludable,Miércoles,13:00,3,8,Media,2,29
+Ensalada,Comida saludable,Lunes,21:30,1,0,Baja,4,11
+Ensalada,Comida saludable,Sábado,18:30,3,9,Alta,2,26
+Pizza mediana,Comida italiana,Martes,15:45,3,4,Media,2,50
+Bandeja típica,Comida típica,Lunes,15:00,1,10,Alta,2,32
+Pizza personal,Comida italiana,Domingo,13:15,1,12,Alta,4,30
+Bandeja típica,Comida típica,Lunes,14:30,1,5,Media,1,30
+Ensalada,Comida saludable,Domingo,17:45,1,6,Media,2,15
+Arepa con queso,Comida típica,Martes,18:00,1,6,Media,3,13
+Jugo natural,Bebidas,Domingo,10:15,1,6,Media,3,13
+Salchipapa,Comidas rápidas,Domingo,12:45,1,8,Media,2,22
+Perro caliente,Comidas rápidas,Lunes,13:00,1,9,Alta,2,14
+Perro caliente,Comidas rápidas,Miércoles,10:45,1,5,Media,3,9
+Hamburguesa clásica,Comidas rápidas,Sábado,11:15,1,6,Media,3,19
+Arepa con queso,Comida típica,Jueves,14:45,1,6,Media,3,13
+Arepa con queso,Comida típica,Miércoles,20:15,2,7,Media,2,23
+Salchipapa,Comidas rápidas,Sábado,19:45,1,10,Alta,2,27
+Hamburguesa clásica,Comidas rápidas,Jueves,20:00,2,13,Alta,3,23
+Hamburguesa especial,Comidas rápidas,Miércoles,12:30,2,8,Media,1,31
+Pizza mediana,Comida italiana,Viernes,16:00,1,5,Media,4,30
+Hamburguesa clásica,Comidas rápidas,Domingo,10:30,1,6,Media,2,20
+Hamburguesa especial,Comidas rápidas,Domingo,18:30,3,7,Media,3,38
+Salchipapa,Comidas rápidas,Jueves,14:15,1,8,Media,4,20
+Salchipapa,Comidas rápidas,Sábado,13:15,3,12,Alta,2,37
+Pizza personal,Comida italiana,Jueves,14:00,3,4,Media,2,39
+Pizza mediana,Comida italiana,Jueves,09:00,2,5,Media,3,40
+Pizza mediana,Comida italiana,Miércoles,10:30,1,5,Media,2,31
+Jugo natural,Bebidas,Miércoles,15:30,1,11,Alta,3,7
+Pizza mediana,Comida italiana,Viernes,19:30,1,5,Media,1,32
+Jugo natural,Bebidas,Martes,19:45,1,7,Media,2,14
+Ensalada,Comida saludable,Sábado,17:00,2,5,Media,2,19
+Perro caliente,Comidas rápidas,Martes,14:15,1,3,Baja,4,11
+Pizza mediana,Comida italiana,Viernes,08:30,1,4,Media,3,30
+Bandeja típica,Comida típica,Lunes,09:15,2,3,Baja,4,33
+Arepa con queso,Comida típica,Sábado,19:45,2,10,Alta,2,25
+Perro caliente,Comidas rápidas,Sábado,11:00,1,5,Media,2,12
+Jugo natural,Bebidas,Martes,20:30,3,13,Alta,4,16
+Ensalada,Comida saludable,Lunes,13:45,3,5,Media,2,29
+Bandeja típica,Comida típica,Miércoles,20:45,1,8,Media,1,35
+Salchipapa,Comidas rápidas,Sábado,13:00,1,12,Alta,2,28
+Hamburguesa especial,Comidas rápidas,Sábado,20:00,2,9,Alta,3,34
+Ensalada,Comida saludable,Martes,19:45,1,7,Media,3,17
+Hamburguesa clásica,Comidas rápidas,Lunes,19:00,3,5,Media,2,31
+Arepa con queso,Comida típica,Sábado,08:45,1,5,Media,3,13
+Salchipapa,Comidas rápidas,Sábado,20:45,2,9,Alta,3,28
+Pizza mediana,Comida italiana,Domingo,18:45,3,10,Alta,2,55
+Pizza mediana,Comida italiana,Sábado,13:00,1,8,Media,2,41
+Bandeja típica,Comida típica,Lunes,20:00,1,9,Alta,2,35
+Hamburguesa especial,Comidas rápidas,Domingo,12:00,2,11,Alta,3,31
+Bandeja típica,Comida típica,Martes,08:30,1,6,Media,1,25
+Perro caliente,Comidas rápidas,Domingo,12:45,2,7,Media,2,22
+Arepa con queso,Comida típica,Viernes,17:00,1,3,Baja,2,12
